@@ -1,0 +1,16 @@
+{
+  "Duelo": "Low–Med_SHAP_top20",
+  "Modelo": "MLP",
+  "params": {
+    "activation": "logistic",
+    "hidden_layer_sizes": [
+      100
+    ]
+  },
+  "ACC": "0.7589 ± 0.0242",
+  "RC": "0.7230 ± 0.0181",
+  "PR": "0.6275 ± 0.0389",
+  "F1S": "0.6708 ± 0.0199",
+  "AUC": "0.8359 ± 0.0154",
+  "SP": "0.7772 ± 0.0419"
+}

@@ -1,0 +1,27 @@
+{
+  "Duelo": "Low–Med+High",
+  "Modelo": "MLP",
+  "BestParams": {
+    "clf__activation": "logistic",
+    "clf__hidden_layer_sizes": [
+      100
+    ]
+  },
+  "Threshold_opt": 0.51,
+  "Test_default": {
+    "ACC": "0.7669",
+    "RC": "0.7920",
+    "PR": "0.6252",
+    "F1S": "0.6988",
+    "SP": "0.7538",
+    "AUC": "0.8499"
+  },
+  "Test_opt": {
+    "ACC": "0.7712",
+    "RC": "0.7878",
+    "PR": "0.6324",
+    "F1S": "0.7016",
+    "SP": "0.7625",
+    "AUC": "0.8499"
+  }
+}

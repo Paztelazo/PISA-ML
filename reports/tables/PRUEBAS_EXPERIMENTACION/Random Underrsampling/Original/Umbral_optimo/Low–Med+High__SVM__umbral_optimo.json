@@ -1,0 +1,25 @@
+{
+  "Duelo": "Low–Med+High",
+  "Modelo": "SVM",
+  "BestParams": {
+    "clf__C": 100,
+    "clf__kernel": "linear"
+  },
+  "Threshold_opt": 0.5,
+  "Test_default": {
+    "ACC": "0.7669",
+    "RC": "0.8088",
+    "PR": "0.6220",
+    "F1S": "0.7032",
+    "SP": "0.7451",
+    "AUC": "0.8519"
+  },
+  "Test_opt": {
+    "ACC": "0.7669",
+    "RC": "0.8088",
+    "PR": "0.6220",
+    "F1S": "0.7032",
+    "SP": "0.7451",
+    "AUC": "0.8519"
+  }
+}

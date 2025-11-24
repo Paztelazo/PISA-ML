@@ -1,0 +1,25 @@
+{
+  "Duelo": "Low–Med+High",
+  "Modelo": "DT",
+  "BestParams": {
+    "clf__criterion": "entropy",
+    "clf__max_depth": 5
+  },
+  "Threshold_opt": 0.51,
+  "Test_default": {
+    "ACC": "0.6958",
+    "RC": "0.7773",
+    "PR": "0.5378",
+    "F1S": "0.6357",
+    "SP": "0.6536",
+    "AUC": "0.7868"
+  },
+  "Test_opt": {
+    "ACC": "0.7073",
+    "RC": "0.7542",
+    "PR": "0.5523",
+    "F1S": "0.6377",
+    "SP": "0.6830",
+    "AUC": "0.7868"
+  }
+}

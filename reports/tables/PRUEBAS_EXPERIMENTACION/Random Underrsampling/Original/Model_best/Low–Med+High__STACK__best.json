@@ -1,0 +1,15 @@
+{
+  "Duelo": "Low–Med+High",
+  "Modelo": "STACK",
+  "params": {
+    "final_estimator__C": 0.1,
+    "final_estimator__penalty": "l2",
+    "final_estimator__solver": "saga"
+  },
+  "ACC": "0.7659 ± 0.0101",
+  "RC": "0.7724 ± 0.0169",
+  "PR": "0.6276 ± 0.0131",
+  "F1S": "0.6924 ± 0.0127",
+  "AUC": "0.8571 ± 0.0091",
+  "SP": "0.7625 ± 0.0115"
+}

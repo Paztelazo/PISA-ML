@@ -1,0 +1,25 @@
+{
+  "Duelo": "Low–Med+High",
+  "Modelo": "XGB",
+  "BestParams": {
+    "clf__learning_rate": 0.1,
+    "clf__n_estimators": 100
+  },
+  "Threshold_opt": 0.46,
+  "Test_default": {
+    "ACC": "0.7726",
+    "RC": "0.7878",
+    "PR": "0.6345",
+    "F1S": "0.7029",
+    "SP": "0.7647",
+    "AUC": "0.8535"
+  },
+  "Test_opt": {
+    "ACC": "0.7712",
+    "RC": "0.8361",
+    "PR": "0.6228",
+    "F1S": "0.7139",
+    "SP": "0.7375",
+    "AUC": "0.8535"
+  }
+}
